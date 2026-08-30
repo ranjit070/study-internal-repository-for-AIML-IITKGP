@@ -1,0 +1,15 @@
+2026-08-30 12:19:57,286 | INFO | __main__ | Application started with json configuration
+2026-08-30 12:19:57,287 | INFO | __main__ | Writing logs to C:\Users\Ranjit\Downloads\probability_oop_app\probability_oop_app\logs\distributions.log
+2026-08-30 12:19:57,287 | INFO | distributions | Created Binomial model: n=10, p=0.2
+2026-08-30 12:19:57,288 | INFO | distributions | Created Poisson model: rate=2.0
+2026-08-30 12:19:57,289 | INFO | __main__ | Application completed successfully
+2026-08-30 12:20:00,379 | INFO | __main__ | Application started with yaml configuration
+2026-08-30 12:20:00,379 | INFO | __main__ | Writing logs to C:\Users\Ranjit\Downloads\probability_oop_app\probability_oop_app\logs\distributions.log
+2026-08-30 12:20:00,380 | INFO | distributions | Created Binomial model: n=10, p=0.2
+2026-08-30 12:20:00,380 | INFO | distributions | Created Poisson model: rate=2.0
+2026-08-30 12:20:00,381 | INFO | __main__ | Application completed successfully
+2026-08-30 12:21:58,283 | INFO | __main__ | Application started with json configuration
+2026-08-30 12:21:58,285 | INFO | __main__ | Writing logs to C:\Users\Ranjit\Downloads\probability_oop_app\probability_oop_app\logs\distributions.log
+2026-08-30 12:21:58,286 | INFO | distributions | Created Binomial model: n=10, p=0.2
+2026-08-30 12:21:58,286 | INFO | distributions | Created Poisson model: rate=2.0
+2026-08-30 12:21:58,287 | INFO | __main__ | Application completed successfully
